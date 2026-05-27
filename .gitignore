@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Data files
+products_input.csv
+products_output.csv
+batch_results.json
+id_map.json
+
+# Keep sample
+!sample_products.csv
+
+# IDE
+.idea/
+.vscode/
