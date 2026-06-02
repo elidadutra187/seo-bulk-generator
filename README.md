@@ -1,8 +1,22 @@
-<p align="center">
+<div align="center">
   <strong>φ</strong>
-</p>
+  <h1>SEO Bulk Generator</h1>
+  <p><em>Generate SEO-optimized product descriptions at scale using Claude API</em></p>
+  <p>
+    <a href="https://github.com/elidadutra187/seo-bulk-generator">Repository</a> ·
+    <a href="https://github.com/elidadutra187">GitHub Profile</a>
+  </p>
+</div>
 
-# SEO Bulk Generator
+
+## Positioning
+
+This repository is part of the `φ` portfolio by [Élida Dutra](https://github.com/elidadutra187), focused on practical systems for e-commerce, automation, analytics, content generation and growth operations.
+
+**Repository:** [elidadutra187/seo-bulk-generator](https://github.com/elidadutra187/seo-bulk-generator)  
+**GitHub:** [https://github.com/elidadutra187](https://github.com/elidadutra187)  
+**Purpose:** Generate SEO-optimized product descriptions at scale using Claude API
+
 
 > Generate SEO-optimized product descriptions at scale using Claude API
 
@@ -175,3 +189,10 @@ MIT
   <strong>φ</strong><br>
   <em>Building intelligent systems at the intersection of marketing, data, and AI</em>
 </p>
+
+<div align="center">
+  <strong>φ</strong>
+  <br />
+  <sub>Built and maintained by <a href="https://github.com/elidadutra187">Élida Dutra</a>.</sub>
+</div>
+
